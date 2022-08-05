@@ -42,7 +42,7 @@ apt install httprobe
 sudo su 
 ```
 ```
-git clone https://github.com/DHK-Tn/fuzzdom
+git clone https://github.com/DHK-Tn/fuzzdom.git
 ```
 ```
 cd fuzzdom
