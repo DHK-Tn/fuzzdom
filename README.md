@@ -1,5 +1,5 @@
 # StgData
-FUZZDOM a automate bash tool For Searching and scanning alive domains 
+FUZZDOM is an automate bash tool For Searching and scanning alive domains 
 
 <h1 align="center">FUZZDOM</h1>
 <p align="center">An open-source I.G tool for Linux and windows </p><br>
@@ -37,7 +37,7 @@ apt install httprobe
 ```
 
 
-## Kali linux
+## Kali linux Installation
 ```
 sudo su 
 ```
