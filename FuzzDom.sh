@@ -52,7 +52,7 @@ banner
 url=$1
 echo "$GREEN[+] Start FUZZDOM working with URL : $RED$url"
 sleep 1
-echo "$RED Take a$GREEN COFFE$RED it Take some Time <3 "
+echo "$RED Take a$GREEN COFFE$RED it Will Take some Time <3 "
 sleep 1
 if [ ! -d "$url" ];then
 	mkdir $url
