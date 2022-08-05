@@ -35,6 +35,9 @@ apt install amass
 ```
 apt install httprobe
 ```
+```
+apt install subjack
+```
 
 
 ## Kali linux Installation
