@@ -5,7 +5,7 @@ FUZZDOM a automate bash tool For Searching and scanning alive domains
 <p align="center">An open-source I.G tool for Linux and windows </p><br>
 
 <p align="center">
-  <img src="https://github.com/DHK-Tn/StgData/blob/main/Stg.png"><br>
+  <img src="https://github.com/DHK-Tn/StgData/blob/main/Stg.png](https://github.com/DHK-Tn/fuzzdom/blob/main/fuzz.png"><br>
 </p>
 
 As soon it will be available for windows .
@@ -42,19 +42,19 @@ apt install httprobe
 sudo su 
 ```
 ```
-git clone https://github.com/DHK-Tn/StgData
+git clone [https://github.com/DHK-Tn/StgData](https://github.com/DHK-Tn/fuzzdom
 ```
 ```
 cd fuzzdom
 ```
 ## for the first installation only
 ```
-chmod +x fuzzdom.sh
+chmod +x FuzzDom.sh
 
 ```
 ## Run 
 ```
-./fuzzdom.sh URL
+./FuzzDom.sh URL
 ```
 ## Note
 𝙄 𝙖𝙢 𝙣𝙤𝙩 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙗𝙡𝙚 𝙛𝙤𝙧 𝙖𝙣𝙮 𝙩𝙝𝙞𝙣𝙜 𝙮𝙤𝙪 𝙙𝙤 𝙬𝙞𝙩𝙝 𝙩𝙝𝙞𝙨 𝙨𝙘𝙧𝙞𝙥𝙩
